@@ -42,3 +42,7 @@ h2 {
 body {
   font-family: Open Sans, sans-serif;
 }
+
+.margin-container {
+  margin-top: 20px;
+}
